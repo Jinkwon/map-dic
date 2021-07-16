@@ -1,4 +1,4 @@
 // concept
-// add sprite image to mapbox
+// add multi sprite image to mapbox
 // mapbox accept only single sprites
 // should have split the sprite to fragment image
