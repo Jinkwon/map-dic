@@ -1,0 +1,16 @@
+{
+  "name": "shape-injector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jinkwon.lee",
+  "license": "ISC",
+  "dependencies": {
+    "mapshaper": "0.5.26",
+    "pg": "8.4.2",
+    "shapefile": "0.6.6"
+  }
+}
