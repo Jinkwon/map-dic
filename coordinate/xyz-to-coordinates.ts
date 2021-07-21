@@ -10,6 +10,6 @@ class XyzToCoordinates {
     });
   }
   xyzToBbox(x, y, z): [number, number, number, number] {
-    return merc.bbox(x, y, z); 
+    return this.merc.bbox(x, y, z); 
   }
 }
